@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Lowell 👋
 
-<!--
-**LowellTN/LowellTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering student in Telecom Nancy (France)
+💻 Passionate about game development, AI, and web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- Languages: C#, Java, Python, JavaScript
+- Frameworks: Unity, Unreal, Godot, PySide, JavaFX
+- Others: Git
+- 
+---
+
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+
+---
+
+📫 **Contact Me**  
+[LinkedIn](https://www.linkedin.com/in/lowel-buzzi/)
